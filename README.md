@@ -3,13 +3,15 @@
 <div>
   <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/736x/86/27/be/8627bebfc51c5fe62a5edbd786301edd.jpg">
 <br></br>
-
-  ### About me
+	
+<h3 align="center" >About me<strong></h3>
+  
   <p>Hi! I'm <strong>Tomilomi</strong>, an advanced <strong>Systems Engineering student</strong>, passionate about programming and technology.</p>
   <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpoY2wzZGh6cnk3cWg5dThjcnZ1b2hqa3QyM3loMWc3eTM0YTM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="170"> </p>
 
-  ### Toolset
+<h3 align="center" >About me<strong></h3>
+
 
   <div align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
@@ -29,7 +31,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   </div>
 
-   ### Repositories
+<h3 align="center" >About me<strong></h3>
   <p><em>Check out some of my repositories.</em></p>
 <div>
 
