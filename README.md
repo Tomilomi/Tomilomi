@@ -51,6 +51,9 @@
 
   📘 <a href="https://github.com/Tomilomi/java-crud-api-rest">Tomilomi/java-crud-api-rest</a>  
   <p><em>A <strong>REST API</strong> built with <strong>Spring Boot, Hibernate, and PostgreSQL</strong>, with <strong>Docker</strong> support. Includes additional notes.</em></p>
+
+  📕 <a href="https://github.com/Tomilomi/daily-cat">Tomilomi/daily-cat</a>  
+<p><em>A simple full-stack web application that displays a new cat GIF every day. Built with <strong>Node.js, Express, CORS</strong>, and a custom frontend to bring joy to cat lovers—one GIF at a time.</em></p>
 </div>
 </div>
 
