@@ -62,7 +62,7 @@
 <p><em>A real-time chat application built with <strong> Node.js, Express, Socket.io, and Morgan</strong> . Styled with Bootstrap and NES.css for a retro chat look and feel.</em></p>
 
   📗 <a href="github.com/Tomilomi/ceynpage">Tomilomi/ceynpage</a>  
-  <p><em>A simple <strong>landing page </strong>strong> for CEYN Consulting, specializing in franchises, businesses, and international trade.</em> </p>
+  <p><em>A simple <strong>landing page </strong> for CEYN Consulting, specializing in franchises, businesses, and international trade.</em> </p>
 </div>
 
 
