@@ -8,7 +8,7 @@
 	
 <h3 align="center">About me</h3>
   
-  <p>Hi! I'm <strong>Tomilomi</strong>, an advanced <strong>Systems Engineering student</strong>, passionate about programming and technology.</p>
+  <p align="center">Hi! I'm <strong>Tomilomi</strong>, an advanced <strong>Systems Engineering student</strong>, passionate about programming and technology.</p>
   <p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpoY2wzZGh6cnk3cWg5dThjcnZ1b2hqa3QyM3loMWc3eTM0YTM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="170"> 
   </p>
