@@ -1,5 +1,5 @@
 <p align="center">
-	<img style="width: 100%;" alt="banner" src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif">
+	<img style="width: 100%;" alt="banner" src="https://i.pinimg.com/originals/46/0b/48/460b487590f8361763bfe6f1f6a36784.gif">
 </p>
 
 <!-- Optional banner goes here
