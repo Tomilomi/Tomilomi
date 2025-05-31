@@ -1,4 +1,6 @@
-<p align="center"><!-- Optional banner goes here--> </p>
+<p align="center">
+	<img aling="center" alt="banner" src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif">
+</p>
 
 <!-- Optional banner goes here
 <div>
