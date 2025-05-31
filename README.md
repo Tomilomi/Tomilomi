@@ -1,8 +1,10 @@
 <p align="center"><!-- Optional banner goes here--> </p>
 
+<!-- Optional banner goes here
 <div>
   <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/736x/86/27/be/8627bebfc51c5fe62a5edbd786301edd.jpg">
 <br></br>
+--> 
 	
 <h3 align="center">About me</h3>
   
