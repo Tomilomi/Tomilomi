@@ -61,13 +61,16 @@
   <p><em>A <strong>REST API</strong> built with <strong>Spring Boot, Hibernate, and PostgreSQL</strong>, with <strong>Docker</strong> support. Includes additional notes.</em></p>
 
   📕 <a href="https://github.com/Tomilomi/daily-cat">Tomilomi/daily-cat</a>  
-<p><em>A simple full-stack web application that displays a new cat GIF every day. Built with <strong>Node.js, Express, CORS</strong>, and a custom frontend to bring joy to cat lovers—one GIF at a time.</em></p>
+  <p><em>A simple full-stack web application that displays a new cat GIF every day. Built with <strong>Node.js, Express, CORS</strong>, and a custom frontend to bring joy to cat lovers—one GIF at a time.</em></p>
 
   📙 <a href="https://github.com/Tomilomi/realtime-chat">Tomilomi/realtime-chat</a>  
-<p><em>A real-time chat application built with <strong> Node.js, Express, Socket.io, and Morgan</strong> . Styled with Bootstrap and NES.css for a retro chat look and feel.</em></p>
+  <p><em>A real-time chat application built with <strong> Node.js, Express, Socket.io, and Morgan</strong> . Styled with Bootstrap and NES.css for a retro chat look and feel.</em></p>
 
   📗 <a href="https://github.com/Tomilomi/ceynpage">Tomilomi/ceynpage</a>  
   <p><em>A simple <strong>landing page </strong> for CEYN Consulting, specializing in franchises, businesses, and international trade.</em> </p>
+
+  📒 <a href="https://github.com/Tomilomi/chat-backend">Tomilomi/chat-backend</a>  
+  <p><em>API for a real-time chat application built with <strong>Node.js, Express, Sequelize, and SQL Server</strong>. It supports <strong>JWT authentication, image uploads with multer</strong>, and a <strong>layered architecture</strong>.</em></p>
 </div>
 
 
